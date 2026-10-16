@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lead Engineer
 -------------
 
-I'm Ashish Kumar, a seasoned Software Engineer with over 8 years of hands-on experience. I've evolved from a Frontend Engineer to a proficient Full-Stack Engineer and currently thrive as a Lead Engineer. My journey in software development has been marked by a passion for building scalable architectures, leading cross-functional teams, and delivering top-notch software solutions.
+I'm Ashish Kumar, a seasoned Software Engineer with over 10+ years of hands-on experience. I've evolved from a Frontend Engineer to a proficient Full-Stack Engineer and currently thrive as a Lead Engineer. My journey in software development has been marked by a passion for building scalable architectures, leading cross-functional teams, and delivering top-notch software solutions.
 
 * 🌍  I'm based in Noida, India
 * ✉️  You can contact me at [connect.ashishk@gmail.com](mailto:connect.ashishk@gmail.com)
